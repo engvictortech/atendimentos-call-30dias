@@ -1,12 +1,12 @@
-# 📊 Dashboard de Atendimentos - 30 Dias
+# 📊  Dashboard Interativo – Atendimentos - 30 dias (Google Sheets & Power BI)
 
 
 
-Este projeto apresenta um \*\*dashboard interativo no Power BI\*\* para análise de atendimentos de call center nos últimos 30 dias, utilizando uma base de dados em Excel.  
+Este projeto apresenta um **dashboard interativo no Power BI** para análise de atendimentos de call center nos últimos 30 dias, utilizando uma base de dados em Excel.  
 
 
 
-O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualizar o \*\*status de chamados\*\* e calcular a \*\*taxa de resolução\*\* automaticamente.
+O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o **status de chamados** e calcular a **taxa de resolução** automaticamente.
 
 
 
@@ -14,17 +14,17 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## ✨ Funcionalidades
+## ✨ Funcionalidades
 
 
 
-\*Total de atendimentos\* por dia e por hora    
+**Total de atendimentos** por dia e por hora    
 
-\*Status dos atendimentos\*: Concluído / Pendente  
+**Status dos atendimentos**: Concluído / Pendente  
 
- \*\*Taxa de resolução\*\* automática  
+ **Taxa de resolução** automática  
 
- \*\*Gráficos interativos\*\* e KPIs  
+ **Gráficos interativos** e KPIs  
 
 - Visualização clara da evolução dos atendimentos  
 
@@ -66,9 +66,9 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-1\. Faça o \*\*download\*\* do arquivo 📥 Baixar Dashboard Power BI  
+1\. [Baixar o Power BI Dashboard](powerbi/atendimento-call30dias.pbix)  
 
-2\. Abra no \*\*Power BI Desktop\*\*  
+2\. Abra no **Power BI Desktop**  
 
 3/. Conecte o arquivo `Atendimentos\_CALL\_30dias.xlsx` como fonte de dados  
 
@@ -78,9 +78,13 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 ---
 
+## 📷 Visualizações (Exemplos no Power BI)
+
+![Dashboards_Powerbi](images/Dashboards_Powerbi.png)
 
 
-## 📷 Visualizações (Exemplos)
+
+## 📷 Visualizações (Exemplos no Google Sheets)
 
 
 
@@ -112,13 +116,13 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 
 
-\- \*\*Power BI Desktop\*\*  
+ **Power BI Desktop**  
 
-\- \*\*Microsoft Excel / Google Sheets\*\*  
+**Microsoft Excel** / **Google Sheets**  
 
 
 
@@ -126,13 +130,13 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 📞 Contato
+## 📞 Contato
 
 
 
-Desenvolvido por \*\*Victor Hugo Miranda Crispim\*\*  
+Desenvolvido por **Victor Hugo Miranda Crispim**  
 
-GitHub: \[engvictortech](https://github.com/engvictortech)
+GitHub: [engvictortech](https://github.com/engvictortech)
 
 
 
