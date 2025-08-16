@@ -1,4 +1,4 @@
-\\# 📊 Dashboard de Atendimentos - 30 Dias
+\# 📊 Dashboard de Atendimentos - 30 Dias
 
 
 
@@ -6,7 +6,7 @@ Este projeto apresenta um \*\*dashboard interativo no Power BI\*\* para análise
 
 
 
-O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, visualizar o \\\*\\\*status de chamados\\\*\\\* e calcular a \\\*\\\*taxa de resolução\\\*\\\* automaticamente.
+O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualizar o \*\*status de chamados\*\* e calcular a \*\*taxa de resolução\*\* automaticamente.
 
 
 
@@ -14,13 +14,13 @@ O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, v
 
 
 
-\\## ✨ Funcionalidades
+\## ✨ Funcionalidades
 
 
 
-\\- \\\*\\\*Total de atendimentos\\\*\\\* por dia e por hora    
+\- \*\*Total de atendimentos\*\* por dia e por hora    
 
-\\- \\\*\\\*Status dos atendimentos\\\*\\\*: Concluído / Pendente  
+\- \*\*Status dos atendimentos\*\*: Concluído / Pendente  
 
 \- \*\*Taxa de resolução\*\* automática  
 
@@ -34,7 +34,7 @@ O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, v
 
 
 
-\\## 🗂 Estrutura do Repositório
+\## 🗂 Estrutura do Repositório
 
 
 
@@ -86,25 +86,25 @@ O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, v
 
 \### Análise de Atendimento
 
-!\[Análise de Atendimento](images/Analise\_de\_atendimento.png)
+!\[Análise de Atendimento](imagens/Analise\_de\_atendimento.png)
 
 
 
 \### Análise de Status
 
-!\[Analise\_status](images/Analise\_status.png)
+!\[Analise\_status](imagens/Analise\_status.png)
 
 
 
 \### Análise Tipo de Atendimento
 
-!\[Analise\_Tipoatendimento](images/Analise\_Tipoatendimento.png)
+!\[Analise\_Tipoatendimento](imagens/Analise\_Tipoatendimento.png)
 
 
 
 \### Gráfico de status de atendimentos
 
-!\[grafico\_status](images/grafico\_status.png)
+!\[grafico\_status](imagens/grafico\_status.png)
 
 
 
