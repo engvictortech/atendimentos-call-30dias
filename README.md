@@ -86,25 +86,25 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 \### Análise de Atendimento
 
-!\[Análise de Atendimento](imagens/Analise\_de\_atendimento.png)
+!\[Análise de Atendimento](images/Analise\_de\_atendimento.png)
 
 
 
 \### Análise de Status
 
-!\[Analise\_status](imagens/Analise\_status.png)
+!\[Analise\_status](images/Analise\_status.png)
 
 
 
 \### Análise Tipo de Atendimento
 
-!\[Analise\_Tipoatendimento](imagens/Analise\_Tipoatendimento.png)
+!\[Analise\_Tipoatendimento](images/Analise\_Tipoatendimento.png)
 
 
 
 \### Gráfico de status de atendimentos
 
-!\[grafico\_status](imagens/grafico\_status.png)
+!\[grafico\_status](images/grafico\_status.png)
 
 
 
