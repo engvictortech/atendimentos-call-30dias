@@ -36,17 +36,15 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 
 ## 🗂 Estrutura do Repositório
 
-
-
 │
-├─ README.md                       # Documentação do projeto
-├─ Atendimentos_CALL_30dias.xlsx   # Base de dados
-├─ Dashboard.pbix                  # Arquivo Power BI
-└─ imagens/                        # Capturas de tela do dashboard
-   ├─ Analise_de_atendimento.png
-   ├─ Analise_status.png
-   ├─ Analise_Tipoatendimento.png
-   └─ Performance_por_equipes.png
+├─ README.md # Documentação do projeto 
+├─ Atendimentos\_CALL\_30dias.xlsx # Base de dados 
+├─ Dashboard.pbix # Arquivo Power BI 
+└─ imagens/ # Capturas de tela do dashboard 
+├─ Analise\_de\_atendimento.png 
+├─ Analise\_status.png 
+├─ Analise\_Tipoatendimento.png 
+└─ Performance_por_equipes.png
 
 
 ---
@@ -99,7 +97,7 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 
 ### Performance por equipe
 
-![Performance_por_equipe](images/Performance_por_equipe.png)
+![Performance_por_equipe](images/Performance\_por_equipe.png)
 
 
 
