@@ -97,7 +97,8 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 
 ### Performance por equipe
 
-![Performance_por_equipe](images/Performance\_por_equipe.png)
+![Performance por Equipes](imagens/Performance_por_equipes.png)
+
 
 
 
