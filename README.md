@@ -1,4 +1,4 @@
-\# 📊 Dashboard de Atendimentos - 30 Dias
+# 📊 Dashboard de Atendimentos - 30 Dias
 
 
 
@@ -18,15 +18,15 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\- \*\*Total de atendimentos\*\* por dia e por hora    
+\*Total de atendimentos\* por dia e por hora    
 
-\- \*\*Status dos atendimentos\*\*: Concluído / Pendente  
+\*Status dos atendimentos\*: Concluído / Pendente  
 
-\- \*\*Taxa de resolução\*\* automática  
+ \*\*Taxa de resolução\*\* automática  
 
-\- \*\*Gráficos interativos\*\* e KPIs  
+ \*\*Gráficos interativos\*\* e KPIs  
 
-\- Visualização clara da evolução dos atendimentos  
+- Visualização clara da evolução dos atendimentos  
 
 
 
@@ -34,7 +34,7 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 🗂 Estrutura do Repositório
+## 🗂 Estrutura do Repositório
 
 
 
@@ -62,7 +62,7 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 🚀 Como usar
+## 🚀 Como usar
 
 
 
@@ -70,7 +70,7 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 2\. Abra no \*\*Power BI Desktop\*\*  
 
-3\. Conecte o arquivo `Atendimentos\_CALL\_30dias.xlsx` como fonte de dados  
+3/. Conecte o arquivo `Atendimentos\_CALL\_30dias.xlsx` como fonte de dados  
 
 4\. Navegue pelos gráficos e KPIs para análise completa  
 
@@ -80,31 +80,31 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 📷 Visualizações (Exemplos)
+## 📷 Visualizações (Exemplos)
 
 
 
-\### Análise de Atendimento
+### Análise de Atendimento
 
-!\[Análise de Atendimento](images/Analise\_de\_atendimento.png)
-
-
-
-\### Análise de Status
-
-!\[Analise\_status](images/Analise\_status.png)
+![Análise de Atendimento](images/Analise\_de\_atendimento.png)
 
 
 
-\### Análise Tipo de Atendimento
+### Análise de Status
 
-!\[Analise\_Tipoatendimento](images/Analise\_Tipoatendimento.png)
+![Analise\_status](images/Analise\_status.png)
 
 
 
-\### Gráfico de status de atendimentos
+### Análise Tipo de Atendimento
 
-!\[grafico\_status](images/grafico\_status.png)
+![Analise\_Tipoatendimento](images/Analise\_Tipoatendimento.png)
+
+
+
+### Gráfico de status de atendimentos
+
+![grafico\_status](images/grafico\_status.png)
 
 
 
