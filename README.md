@@ -65,7 +65,7 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 ![Análise Tipo de Atendimento](images/Analise_de_atendimento.png)
 
 ### Performance por Equipe
-![Performance por Equipes](images/Performance_por_equipe.png)
+![Performance por Equipe](images/Performance_por_equipe.png)
 
 ---
 
