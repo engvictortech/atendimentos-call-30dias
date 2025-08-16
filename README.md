@@ -1,4 +1,4 @@
-\# Dashboard de Atendimentos - 30 Dias
+\# 📊 Dashboard de Atendimentos - 30 Dias
 
 
 
@@ -6,7 +6,7 @@ Este projeto apresenta um \*\*dashboard interativo no Power BI\*\* para análise
 
 
 
-O dashboard permite acompanhar rapidamente os principais KPIs, visualizar status de chamados e calcular a taxa de resolução automaticamente.
+O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualizar o \*\*status de chamados\*\* e calcular a \*\*taxa de resolução\*\* automaticamente.
 
 
 
@@ -14,19 +14,19 @@ O dashboard permite acompanhar rapidamente os principais KPIs, visualizar status
 
 
 
-\## Funcionalidades
+\## ✨ Funcionalidades
 
 
 
-\- \*\*Total de atendimentos\*\* por dia e por hora
+\- \*\*Total de atendimentos\*\* por dia e por hora  
 
-\- \*\*Status dos atendimentos\*\*: Concluído / Pendente
+\- \*\*Status dos atendimentos\*\*: Concluído / Pendente  
 
-\- \*\*Taxa de resolução\*\* automática
+\- \*\*Taxa de resolução\*\* automática  
 
-\- \*\*Gráficos interativos\*\* e KPIs
+\- \*\*Gráficos interativos\*\* e KPIs  
 
-\- Visualização clara da evolução dos atendimentos
+\- Visualização clara da evolução dos atendimentos  
 
 
 
@@ -34,7 +34,7 @@ O dashboard permite acompanhar rapidamente os principais KPIs, visualizar status
 
 
 
-\## Estrutura do Repositório
+\## 🗂 Estrutura do Repositório
 
 
 
@@ -42,67 +42,65 @@ atendimentos-call-30dias/
 
 │
 
-├─ README.md
+├─ README.md # Documentação do projeto
 
 ├─ Atendimentos\_CALL\_30dias.xlsx # Base de dados
 
 ├─ Dashboard.pbix # Arquivo Power BI
 
-└─ imagens/
+└─ imagens/ # Capturas de tela do dashboard
 
-├─ tela\_inicial.png
+├─ Analise\_de\_atendimento.png
 
-├─ kpi\_atendimentos.png
+├─ Analise\_status.png
 
-├─ grafico\_taxa\_resolucao.png
+├─ Analise\_Tipoatendimento.png
 
 └─ grafico\_status.png
 
 
 
+---
+
+
+
+\## 🚀 Como usar
+
+
+
+1\. Faça o \*\*download\*\* do arquivo `Dashboard.pbix`  
+
+2\. Abra no \*\*Power BI Desktop\*\*  
+
+3\. Conecte o arquivo `Atendimentos\_CALL\_30dias.xlsx` como fonte de dados  
+
+4\. Navegue pelos gráficos e KPIs para análise completa  
+
 
 
 ---
 
 
 
-\## Como usar
+\## 📷 Visualizações (Exemplos)
 
 
 
-1\. Faça o \*\*download\*\* do arquivo `Dashboard.pbix`.  
+\### Análise de Atendimento
 
-2\. Abra o Power BI Desktop.  
-
-3\. Conecte o arquivo `Atendimentos\_CALL\_30dias.xlsx` como fonte de dados.  
-
-4\. Navegue pelos gráficos e KPIs para análise completa.  
+!\[Análise de Atendimento](imagens/Analise\_de\_atendimento.png)
 
 
 
----
+\### Analise\_status
+
+!\[Analise\_status](imagens/Analise\_status.png)
 
 
 
-\## Visualizações (Exemplos)
+\### Analise\_Tipoatendimento
 
-
-
-\### Tela inicial
-
-!\[tela\_inicial](imagens/tela\_inicial.png)
-
-
-
-\### KPIs de atendimentos
-
-!\[kpi\_atendimentos](imagens/kpi\_atendimentos.png)
-
-
-
-\### Gráfico de taxa de resolução
-
-!\[grafico\_taxa\_resolucao](imagens/grafico\_taxa\_resolucao.png)
+!\[Analise\_Tipoatendimento](imagens/Analise\_Tipoatendimento.png)
 
 
 
@@ -116,7 +114,7 @@ atendimentos-call-30dias/
 
 
 
-\## Tecnologias Utilizadas
+\## 🛠 Tecnologias Utilizadas
 
 
 
@@ -130,7 +128,7 @@ atendimentos-call-30dias/
 
 
 
-\## Contato
+\## 📞 Contato
 
 
 
