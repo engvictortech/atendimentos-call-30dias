@@ -90,13 +90,13 @@ O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, v
 
 
 
-\### Analise\_status
+\### Análise de Status
 
-!\[Analise\_status](imagens/Analise\_status.)
+!\[Analise\_status](images/Analise\_status.png)
 
 
 
-\### Analise\_Tipoatendimento
+\### Análise Tipo de Atendimento
 
 !\[Analise\_Tipoatendimento](images/Analise\_Tipoatendimento.png)
 
