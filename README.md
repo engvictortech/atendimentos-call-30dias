@@ -66,7 +66,7 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-1\. Faça o \*\*download\*\* do arquivo `Dashboard.pbix`  
+1\. Faça o \*\*download\*\* do arquivo 📥 Baixar Dashboard Power BI  
 
 2\. Abra no \*\*Power BI Desktop\*\*  
 
