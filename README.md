@@ -1,4 +1,3 @@
-\# 📊 Dashboard de Atendimentos - 30 Dias
 
 
 
@@ -6,7 +5,6 @@ Este projeto apresenta um \*\*dashboard interativo no Power BI\*\* para análise
 
 
 
-O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualizar o \*\*status de chamados\*\* e calcular a \*\*taxa de resolução\*\* automaticamente.
 
 
 
@@ -14,13 +12,10 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## ✨ Funcionalidades
 
 
 
-\- \*\*Total de atendimentos\*\* por dia e por hora  
 
-\- \*\*Status dos atendimentos\*\*: Concluído / Pendente  
 
 \- \*\*Taxa de resolução\*\* automática  
 
@@ -34,11 +29,8 @@ O dashboard permite acompanhar rapidamente os principais \*\*KPIs\*\*, visualiza
 
 
 
-\## 🗂 Estrutura do Repositório
 
 
-
-atendimentos-call-30dias/
 
 │
 
