@@ -20,12 +20,19 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 
 │
 ├─ README.md # Documentação do projeto
+
 ├─ Atendimentos_CALL_30dias.xlsx # Base de dados
+
 ├─ Dashboard.pbix # Arquivo Power BI
+
 └─ imagens/ # Capturas de tela do dashboard
+
 ├─ Analise_de_atendimento.png
+
 ├─ Analise_status.png
+
 ├─ Analise_Tipoatendimento.png
+
 └─ Performance_por_equipes.png
 
 ---
