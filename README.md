@@ -19,6 +19,7 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 ## 🗂 Estrutura do Repositório
 
 │
+
 ├─ README.md # Documentação do projeto
 
 ├─ Atendimentos_CALL_30dias.xlsx # Base de dados
@@ -48,23 +49,23 @@ O dashboard permite acompanhar rapidamente os principais **KPIs**, visualizar o 
 
 ## 📷 Visualizações (Exemplos no Power BI)
 
-![Dashboards Power BI](imagens/Dashboards_Powerbi.png)
+![Dashboards Power BI](images/Dashboards_Powerbi.png)
 
 ---
 
 ## 📷 Visualizações (Exemplos no Google Sheets)
 
 ### Análise de Atendimento
-![Análise de Atendimento](imagens/Analise_de_atendimento.png)
+![Análise de Atendimento](images/Analise_de_atendimento.png)
 
 ### Análise de Status
-![Análise de Status](imagens/Analise_status.png)
+![Análise de Status](images/Analise_status.png)
 
 ### Análise Tipo de Atendimento
-![Análise Tipo de Atendimento](imagens/Analise_de_atendimento.png)
+![Análise Tipo de Atendimento](images/Analise_de_atendimento.png)
 
 ### Performance por Equipe
-![Performance por Equipes](imagens/Performance_por_equipes.png)
+![Performance por Equipes](images/Performance_por_equipes.png)
 
 ---
 
