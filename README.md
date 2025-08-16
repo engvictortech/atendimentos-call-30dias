@@ -92,7 +92,7 @@ O dashboard permite acompanhar rapidamente os principais \\\*\\\*KPIs\\\*\\\*, v
 
 \### Analise\_status
 
-!\[Analise\_status](imagens/Analise\_status.png)
+!\[Analise\_status](imagens/Analise\_status.)
 
 
 
